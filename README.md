@@ -1,7 +1,7 @@
 ## Hi there, fellow programmer 👋 
 - 🧔 My name is Steve Mathew Joy. 
 - 🌱 I’m currently completing Bachelor of Information Technology.
-- 💬 Ask me about anything about computer and cars! Im all in!
+- 💬 Ask me anything about computer 💻 and cars 🚙 ! Im all in!
 
 ![](https://img.shields.io/github/last-commit/rayslash/nixos-config.svg)   ![](https://img.shields.io/github/followers/rayslash.svg?style=social&label=Follow&maxAge=2592000)  
 
