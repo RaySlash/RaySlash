@@ -35,5 +35,3 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=rayslash&theme=blue-green)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayslash&theme=blue-green)
