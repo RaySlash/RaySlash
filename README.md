@@ -1,9 +1,8 @@
-## Hi there, fellow programmer 👋 
+## Hi there 👋 
 - 🧔 My name is Steve Mathew Joy. 
 - 🌱 I’m currently completing Bachelor of Information Technology.
 - 💬 Ask me anything about computer 💻 and cars 🚙 ! Im all in!
 
-![](https://img.shields.io/github/last-commit/rayslash/nixos-config.svg)   ![](https://img.shields.io/github/followers/rayslash.svg?style=social&label=Follow&maxAge=2592000)  
 
 ### Languages, Frameworks and Tools
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
