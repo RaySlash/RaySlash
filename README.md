@@ -1,6 +1,5 @@
 ## Hi there 👋 
 - 🧔 My name is Steve Mathew Joy. 
-- 🌱 I’m currently completing Bachelor of Information Technology.
 - 💬 Ask me anything about computer 💻 and cars 🚙 ! Im all in!
 
 ### Contact me
